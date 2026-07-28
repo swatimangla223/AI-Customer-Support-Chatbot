@@ -1,1 +1,1 @@
--r AI Chabot/requirements.txt
+streamlit
